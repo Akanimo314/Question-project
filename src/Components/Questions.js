@@ -1,4 +1,3 @@
-import React from 'react'
 import SingleQuestion from './SingleQuestion'
 
 const Questions = ({data, ActiveId, toggleId}) => {
